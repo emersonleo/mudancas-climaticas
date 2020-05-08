@@ -1,0 +1,1 @@
+Projeto de mudanças climáticas para o curso de Introdução ao machine learning com o Python e o Azure Notebooks
