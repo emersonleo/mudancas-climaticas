@@ -1,1 +1,1 @@
-Projeto de mudanças climáticas para o curso de Introdução ao machine learning com o Python e o Azure Notebooks
+Projeto de mudanças climáticas para o primeiro módulo do curso de Introdução ao machine learning com o Python e o Azure Notebooks, nesse módulo é apresentado o conceito de Regressão linear, e algumas ferramentas em python utilizadas para isso.
